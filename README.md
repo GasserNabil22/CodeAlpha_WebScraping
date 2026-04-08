@@ -28,13 +28,14 @@ Scraped Features:
     Category: The genre/category the book belongs to.
 ###################################
 
-Technologies Used
-Python 3.x
+Technologies Used:
 
-BeautifulSoup4: For parsing HTML content.
-
-Requests: For handling HTTP protocol and fetching web pages.
-
-Pandas: For data manipulation and structured storage.
-
-Regular Expressions (re): For cleaning price strings.
+        Python 3.x
+        
+        BeautifulSoup4: For parsing HTML content.
+        
+        Requests: For handling HTTP protocol and fetching web pages.
+        
+        Pandas: For data manipulation and structured storage.
+        
+        Regular Expressions (re): For cleaning price strings.
