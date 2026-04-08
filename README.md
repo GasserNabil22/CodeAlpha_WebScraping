@@ -15,8 +15,11 @@ Clean and transform raw HTML data into a structured format (Pandas DataFrame).
 Prepare a dataset for potential future Exploratory Data Analysis (EDA).
 
 ###################################
+
 The scraper targets Books to Scrape, a site designed for testing scraping logic. The final dataset includes information for 1,000 books across 50 different categories.
+
 ###################################
+
 Scraped Features:
 
     Title: The full name of the book.
